@@ -12,7 +12,8 @@ Sobre as entregas:
 - **Readme de instalação e execução** que está aqui.
 
 Sobre os notebooks.
-Dividi os notebooks por tópicos sequenciais para facilitar a organização, cada um deles contém:
+
+Dividi-os por tópicos sequenciais para facilitar a organização, cada um deles contém:
 
 - **Notebook A:**
 
@@ -20,12 +21,16 @@ Dividi os notebooks por tópicos sequenciais para facilitar a organização, cad
 1. Data Description
 2. Feature Engineering
 3. Salvando dataset
+
 <br>
+
 - **Notebook B:**
 
 4. EDA (Análise Exploratória de Dados)
 5. Respostas das Perguntas de Negócio solicitadas no desafio
+
 <br>
+
 - **Notebook C:**
 
 5. Data Preparation
@@ -56,5 +61,5 @@ Dividi os notebooks por tópicos sequenciais para facilitar a organização, cad
 17. Click na pasta "notebooks" e click no arquivo notebook desejado;
 18. Dentro do notebook, na parte superior, click em "Run All" para rodar as células;
 19. O VSCode pedirá para instalar extensões Python e o Kernel para funcionar, aceite;
-20. Pronto! Já pode aproveitar o projeto.
+20. Pronto! Já pode aproveitar o projeto. 
 
