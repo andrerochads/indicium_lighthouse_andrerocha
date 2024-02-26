@@ -11,7 +11,7 @@ Sobre as entregas:
 - **Arquivo de requisitos** com todos os **pacotes utilizados e versões**, está no arquivo de texto com o nome de **requirements.txt**;
 - **Readme de instalação e execução** que está aqui.
 
-Sobre os notebooks.
+Sobre os notebooks:
 
 Dividi-os por tópicos sequenciais para facilitar a organização, cada um deles contém:
 
@@ -39,6 +39,16 @@ Dividi-os por tópicos sequenciais para facilitar a organização, cada um deles
 8. Fine Tunning
 9. Tradução e Interpretação do Erro
 10. Prevendo preço do imóvel solicitado
+
+<br>
+
+Sobre próximos passos e melhorias:
+
+-  Melhorar o desempenho do modelo, criando mais features;
+-  Criar uma feature que calcule as distâncias entre os centros dos distritos e o imóvel, para melhorar a capacidade do modelo de prever os preços imobiliários através da localização;
+- Criar uma feature que explore mais a coluna nome do anúncio;
+- Deploy do modelo via API + Streamlit. Resumidamente, a API será um web service (no Render) com o modelo treinado (.pkl), e o Streamlit, como um web app que fará as requisições do usuário para a API, que retornará o preço sugerido. 
+
 <br>
 
 ## Instruções de Instalação e Execução
